@@ -1,0 +1,5 @@
+{
+  "name": "Phishing Detector",
+  "description": "An intelligent web application that uses the Gemini API to analyze email content and detect potential phishing attempts, providing detailed analysis and search-grounded insights.",
+  "requestFramePermissions": []
+}
